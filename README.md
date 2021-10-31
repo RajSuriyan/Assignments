@@ -1,2 +1,2 @@
 # Assignments
-It is gui calculator and a sraper
+It is gui calculator and a scraper
